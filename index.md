@@ -1,7 +1,11 @@
-# Neuron Template
+---
+title: Ankita's Neuron
+---
 
-You are viewing the [neuron](https://neuron.zettel.page/)-published site for [neuron-template](https://github.com/srid/neuron-template). [GitHub Pages](https://pages.github.com/) is used to automatically publish this site every time the underlying Git repository is updated.
+I am going to create zettels from today.
 
-Get started by reading <README>.
 
-There is also a <faq>.
+* <45a4ce8cc86c1bfc>
+* <eb45d5445b96690b>
+* <6852fe4055fa1efd>
+* <2048b754f533446e>
