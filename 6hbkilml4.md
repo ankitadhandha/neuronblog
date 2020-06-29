@@ -32,11 +32,11 @@ Testing on 23/06 rev 3
 
 Testing on 23/06 rev 4
 
-<<<<<<< HEAD
 Testing on 28/06 rev 1
-=======
+
 Testing on 25/06 rev 1
->>>>>>> 708c8820a14a8ab7996a0fa3f559c81d535a412f
+
+Testing on 29/06 rev 1
 
 ---
 Edit [here](https://github.com/ankitadhandha/zettelkasten/edit/master/6hbkilml4.md)
