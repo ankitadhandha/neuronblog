@@ -25,5 +25,5 @@ jobs:
       with:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         BRANCH: master
-        FOLDER: neuron/output
+        FOLDER: .neuron/output #This is not possible in github pages, source of pages can only be master, master/docs(Enterprise only), gh-pages
 
