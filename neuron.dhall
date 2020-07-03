@@ -1,8 +1,8 @@
-{ siteTitle = "Neuron Template"
-, author = Some "John Doe"
+{ siteTitle = "Ontomatica Blog"
+, author = Some "Gig Graham"
 , siteBaseUrl = Some "https://srid.github.io/neuron-template"
 -- List of themes: https://neuron.zettel.page/2014601.html
-, theme = "teal"
-, editUrl = Some "https://github.com/srid/neuron-template/edit/master/"
+, theme = "pink"
+, editUrl = Some "https://github.com/ankitadhandha/ankitadhandha.github.io/edit/master/"
 , mathJaxSupport = False
 }
