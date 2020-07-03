@@ -40,7 +40,5 @@ Testing on 29/06 rev 1
 
 Testing on 02/07 rev 1
 
-Testing
----
-Edit [here](https://github.com/ankitadhandha/zettelkasten/edit/master/6hbkilml4.md)
----
+Testing on 03/07 rev 1 on develop branch.
+
