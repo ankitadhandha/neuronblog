@@ -12,3 +12,4 @@ I am going to create zettels from today.
 * <2048b754f533446e>
 * <6hbkilml4>
 * <srid_feedback>
+* <mynotes>
