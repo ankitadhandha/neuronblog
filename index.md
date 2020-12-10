@@ -15,5 +15,6 @@ I am going to create zettels from today.
 * [[mynotes]]
 * [[charts]]
 * [[graphviz]]
+* [[mermaid]]
 
 Adding this line to test latest neuron version.
