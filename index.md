@@ -14,5 +14,6 @@ I am going to create zettels from today.
 * [[srid_feedback]]
 * [[mynotes]]
 * [[charts]]
+* [[graphviz]]
 
 Adding this line to test latest neuron version.
