@@ -1,0 +1,185 @@
+<!-- Font  -->
+<!-- TODO: neuron has changed default font, remove it later  -->
+<link href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&#38;display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Source+Code+Pro:ital,wght@0,400;0,700;1,400;1,600&#38;display=swap" rel="stylesheet">
+
+<!-- mermaidjs -->
+<script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
+<script>
+window.addEventListener("load", mermaid.initialize({startOnLoad:true}))
+</script>
+
+<!-- graphviz -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/viz.js/2.1.2/viz.js" integrity="sha512-vnRdmX8ZxbU+IhA2gLhZqXkX1neJISG10xy0iP0WauuClu3AIMknxyDjYHEpEhi8fTZPyOCWgqUCnEafDB/jVQ==" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/viz.js/2.1.2/full.render.js" integrity="sha512-1zKK2bG3QY2JaUPpfHZDUMe3dwBwFdCDwXQ01GrKSd+/l0hqPbF+aak66zYPUZtn+o2JYi1mjXAqy5mW04v3iA==" crossorigin="anonymous"></script>
+<script>
+window.addEventListener("load", function(){
+  let viz = new Viz();
+  for (let element of document.getElementsByClassName("graphviz")) {
+    let parent = element.parentNode
+    let pparent = parent.parentNode
+    viz.renderSVGElement(element.textContent)
+    .then(function(element) {
+      element.setAttribute("width", "100%")
+      pparent.replaceChild(element, parent)
+    });
+  }
+});
+</script>
+
+<!-- chartjs -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.4/Chart.bundle.min.js" integrity="sha512-SuxO9djzjML6b9w9/I07IWnLnQhgyYVSpHZx0JV97kGBfTIsUYlWflyuW4ypnvhBrslz1yJ3R+S14fdCWmSmSA==" crossorigin="anonymous"></script>
+<script>
+window.addEventListener("load", function(){
+  for (let element of document.getElementsByClassName("chartjs")) {
+    let parent = element.parentNode
+    let pparent = parent.parentNode
+    let canvas = document.createElement('canvas');
+    let box = document.createElement('div');
+    box.appendChild(canvas);
+    let ctx = canvas.getContext("2d")
+    let myChart = new Chart(ctx, JSON.parse(element.textContent));
+    box.setAttribute("style","display:block;width:75%;text-align:'center';margin: 5px auto;");
+    pparent.replaceChild(box, parent)
+  }
+});
+</script>
+
+<!-- Custom css  -->
+<style>
+img[src$="centerme"] {
+  display:block;
+  margin: 0 auto;
+}
+
+ui.menu {
+  font-size: 0.6em;
+}
+
+/* tree icon disappear some times*/
+body .tree {
+  overflow: hidden;
+}
+
+/* width */
+.ui.text.container {
+  max-width: 1000px;
+}
+
+@media screen and (min-width: 800px) {
+    .ui.attached.segment {
+      padding: 50px;
+    }
+}
+
+* {
+  font-size: 16px;
+}
+
+body div.zettel-view .zettel-content h1 {
+  font-family: "Crimson Text", serif !important;
+  font-weight: 600 !important;
+  padding: 0.3rem !important;
+  border-bottom: none;
+  text-align: left;
+  background-color: inherit !important;
+}
+
+body div.zettel-view .zettel-content h2 {
+  font-family: "Crimson Text", serif !important;
+  font-weight: 600 !important;
+  padding: 0.3rem !important;
+  font-size: 1.75rem !important;
+  border-bottom: none;
+  text-align: left;
+  background-color: inherit !important;
+}
+
+
+body div.zettel-view .zettel-content h3 {
+  font-family: "Crimson Text", serif !important;
+  font-weight: 600 !important;
+  padding: 0.3rem !important;
+  font-size: 1.5rem !important;
+  border-bottom: none;
+  text-align: left;
+  background-color: inherit !important;
+}
+
+body div.zettel-view .zettel-content h4 {
+  font-family: "Crimson Text", serif !important;
+  font-weight: 600 !important;
+  font-size: 1.25rem !important;
+  padding: 0.3rem !important;
+  border-bottom: none;
+  text-align: left;
+  background-color: inherit !important;
+}
+
+/* title */
+#zettel-container > div.zettel-view > article > h1:first-child {
+/* body div#neuron-theme-default-black .zettel-content h1 { */
+  /* text-align: center !important; */
+  font-family: "Crimson Text", serif !important;
+  /* font-style: italic; */
+  text-align: right;
+  font-weight: normal !important;
+  font-size: 2rem;
+  padding: 1rem;
+  /* padding-top: 1rem; */
+  /* padding-right: 1rem; */
+  /* padding-left: 1rem; */
+  background-color: inherit !important;
+}
+
+#neuron-theme-default-black > div > h1 {
+  font-family: "Crimson Text", serif !important;
+  font-weight: normal;
+}
+
+/* divider */
+.ui.horizontal.divider:before {
+  width: 100%;
+}
+
+/* logo */
+div.ui.one.column.grid.footer-version > div > div > a > img {
+  display:none !important;
+}
+
+div.ui.one.column.grid.footer-version > div > div > a:before {
+  content: "© 2020 rok" !important;
+  font-size: 0.8rem;
+}
+
+/* link */
+body div#neuron-theme-default-black span.zettel-link-container span.zettel-link a {
+  color: inherit !important;
+}
+
+time {
+  font-family: "Crimson Text", monospace !important;
+}
+
+body code, pre, tt {
+  font-family: "Source Code Pro", monospace !important;
+}
+
+.ui.text.container {
+  font-family: "Crimson Text", serif !important;
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+</style>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-171033761-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-171033761-1');
+</script>
