@@ -16,5 +16,6 @@ I am going to create zettels from today.
 * [[charts]]
 * [[graphviz]]
 * [[mermaid]]
+* [[mathjx]]
 
 Adding this line to test latest neuron version.
