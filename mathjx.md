@@ -36,3 +36,16 @@ $$
 
 
 $$AAE8=\cong sum_{1}^8(essential-amino-acids)\cong$$
+
+$$
+ \begin{align}
+   AAE8=[isoleucine]\\
+   +[leucine]\\
+   +[lysine]\\
+   +[methionine]\\
+   +[phenylalanine]\\
+   +[threonine]\\
+   +[tryptophan]\\
+   +[valine]
+   \end{align}
+$$
