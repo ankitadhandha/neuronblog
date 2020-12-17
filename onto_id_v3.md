@@ -4,7 +4,7 @@
   <script src="//unpkg.com/element-resize-detector/dist/element-resize-detector.min.js"></script>
   <script src="//unpkg.com/3d-force-graph"></script>
  
-  <div id="3d-graph" style='visibility:hidden;' ></div>
+ 
   
 <script src="https://unpkg.com/three@0.119.1/build/three.js"></script>
 <script src="https://unpkg.com/three-spritetext@1.5.2/dist/three-spritetext.min.js"></script>
