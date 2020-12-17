@@ -18,5 +18,6 @@ I am going to create zettels from today.
 * [[mermaid]]
 * [[mathjx]]
 * [[onto_id_v3]]
+* [[rdfa]]
 
 Adding this line to test latest neuron version.
