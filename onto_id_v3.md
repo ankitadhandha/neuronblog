@@ -1,3 +1,7 @@
+<style> body { margin: 0; } </style>
+  
+  <div id="3d-graph" style='visibility:hidden;' ></div>
+  
 <script src="https://unpkg.com/three@0.119.1/build/three.js"></script>
 <script src="https://unpkg.com/three-spritetext@1.5.2/dist/three-spritetext.min.js"></script>
 <script src="https://unpkg.com/3d-force-graph@1.66.6/dist/3d-force-graph.min.js"></script>
