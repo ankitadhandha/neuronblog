@@ -17,6 +17,6 @@ I am going to create zettels from today.
 * [[graphviz]]
 * [[mermaid]]
 * [[mathjx]]
-* [[onto_id_v3.md]]
+* [[onto_id_v3]]
 
 Adding this line to test latest neuron version.
