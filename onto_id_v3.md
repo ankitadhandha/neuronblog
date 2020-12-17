@@ -1,9 +1,4 @@
-<style> body { margin: 0; } </style>
- <script src="//unpkg.com/three"></script>
-  <script src="//unpkg.com/three-spritetext"></script>
-  <script src="//unpkg.com/element-resize-detector/dist/element-resize-detector.min.js"></script>
-  <script src="//unpkg.com/3d-force-graph"></script>
- 
+
  
   
 <script src="https://unpkg.com/three@0.119.1/build/three.js"></script>
