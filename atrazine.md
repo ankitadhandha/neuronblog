@@ -17,15 +17,17 @@
     2-chloro-4-hydroxy-6-amino-1,3,5-triazine Exit disclaimer [GHCVXTFBVDVFGE-UHFFFAOYSA-N]
     4-ethylamino-6-isopropylamino-1,3,5-triazin-2-ol Exit disclaimer [NFMIMWNQWAWNDW-UHFFFAOYSA-N]
     Cyanuric acid Exit disclaimer [ZFSLODLOARCGLH-UHFFFAOYSA-N]
-    
-6-deisopropylatrazine binds to ESR1 protein
-ESR1 	6-deisopropylatrazine inhibits the reaction [Estradiol binds to and results in increased activity of ESR1 protein]
-PDE4A 	6-deisopropylatrazine results in decreased activity of PDE4A protein
+
+---
+
+>6-deisopropylatrazine binds to ESR1 protein
+>ESR1 	6-deisopropylatrazine inhibits the reaction [Estradiol binds to and results in increased activity of ESR1 protein]
+>PDE4A 	6-deisopropylatrazine results in decreased activity of PDE4A protein
 
 problem	not in text.tsv and therefore not discoverable
-MD02	Nitrosamines
-MD03	Atrazine
-[wedge](https://wedge.ontomatica.io/ChEMATIC_-_19-09-06/Wedge?q=facet_MD02:68109733&index=228)
+   MD02	Nitrosamines
+   MD03	Atrazine
+   [wedge](https://wedge.ontomatica.io/ChEMATIC_-_19-09-06/Wedge?q=facet_MD02:68109733&index=228)
 N-nitrosoatrazine [MESH:C015394]
 
 Atrazine [MESH:D001280]
