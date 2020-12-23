@@ -20,4 +20,3 @@ I am going to create zettels from today.
 * [[onto_id_v3]]
 * [[rdfa]]
 * [[blogs]]
-Adding this line to test latest neuron version.
