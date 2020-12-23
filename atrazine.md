@@ -27,7 +27,7 @@
 problem	not in text.tsv and therefore not discoverable
   MD02	Nitrosamines
   MD03	Atrazine
-  [wedge](https://wedge.ontomatica.io/ChEMATIC_-_19-09-06/Wedge?q=facet_MD02:68109733&index=228)
+  [wedge](https://wedge.ontomatica.io/ChEMATIC_-_19-09-06/Wedge?q=facet_MD_02:68109733)
   N-nitrosoatrazine [MESH:C015394]
 
 Atrazine [MESH:D001280]
