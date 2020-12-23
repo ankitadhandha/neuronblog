@@ -14,9 +14,9 @@
 - [http://chem.sis.nlm.nih.gov](http://chem.sis.nlm.nih.gov/chemidplus/unii/QJA9M5H4IM)
 
 - Atrazine degradates identified in ChEFS
-    2-chloro-4-hydroxy-6-amino-1,3,5-triazine Exit disclaimer [GHCVXTFBVDVFGE-UHFFFAOYSA-N]
-    4-ethylamino-6-isopropylamino-1,3,5-triazin-2-ol Exit disclaimer [NFMIMWNQWAWNDW-UHFFFAOYSA-N]
-    Cyanuric acid Exit disclaimer [ZFSLODLOARCGLH-UHFFFAOYSA-N]
+  2-chloro-4-hydroxy-6-amino-1,3,5-triazine Exit disclaimer [GHCVXTFBVDVFGE-UHFFFAOYSA-N]
+  4-ethylamino-6-isopropylamino-1,3,5-triazin-2-ol Exit disclaimer [NFMIMWNQWAWNDW-UHFFFAOYSA-N]
+  Cyanuric acid Exit disclaimer [ZFSLODLOARCGLH-UHFFFAOYSA-N]
 
 ---
 
@@ -25,10 +25,10 @@
 >PDE4A 	6-deisopropylatrazine results in decreased activity of PDE4A protein
 
 problem	not in text.tsv and therefore not discoverable
-   MD02	Nitrosamines
-   MD03	Atrazine
-   [wedge](https://wedge.ontomatica.io/ChEMATIC_-_19-09-06/Wedge?q=facet_MD02:68109733&index=228)
-N-nitrosoatrazine [MESH:C015394]
+  MD02	Nitrosamines
+  MD03	Atrazine
+  [wedge](https://wedge.ontomatica.io/ChEMATIC_-_19-09-06/Wedge?q=facet_MD02:68109733&index=228)
+  N-nitrosoatrazine [MESH:C015394]
 
 Atrazine [MESH:D001280]
 
