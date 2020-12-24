@@ -7,3 +7,4 @@ Here are blogs from Gig Graham:
 * [[cholesterol_part_2]]
 * [[ellagic_acid]]
 * [[nobel_prize_cholesterol]
+* [[nobel_prize_curie]]
