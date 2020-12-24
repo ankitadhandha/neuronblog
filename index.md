@@ -20,5 +20,3 @@ I am going to create zettels from today.
 * [[onto_id_v3]]
 * [[rdfa]]
 * [[blogs]]
-* [[cholesterol_part_1]]
-* [[cholesterol_part_2]]
