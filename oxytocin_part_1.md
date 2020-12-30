@@ -57,7 +57,7 @@ The oxytocin receptor is a G-protein-coupled receptor that requires
 
 and
 
-*	[cholesterol(https://wedge.ontomatica.io/ChEFS_-_19-09-06/Wedge?q=facet_NTRNT:8400/Cholesterol&group=facet_NTRNT).
+*	[cholesterol](https://wedge.ontomatica.io/ChEFS_-_19-09-06/Wedge?q=facet_NTRNT:8400/Cholesterol&group=facet_NTRNT).
 
 * Oxytocin and its receptors are found in the gastrointestinal tract.
 * Reducing stress in gut may promote oxytocin bioactivty.
