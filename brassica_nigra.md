@@ -1,6 +1,6 @@
 ### Brassica Nigra
 
-- Brassica nigra is used for spices & respiratory infections: [here] (http://bit.ly/1jvmS2E).
+- Brassica nigra is used for spices & respiratory infections: [here](http://bit.ly/1jvmS2E).
 - Here is a chemical derived from it: [Click here](https://wedge.ontomatica.io/ChEFS_-_19-09-06/Wedge?q=facet_TAXON_NAME:24518&group=facet_TAXON_NAME).
 - Check out the Inchikey & then look here for related data: [Click here](http://bit.ly/1jmleET).
 - Here's where it grows: [Click here](http://bit.ly/1hUuBpT).
