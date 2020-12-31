@@ -1,5 +1,5 @@
 
-# Atrazine
+# atrazine
 
 - Atrazine is a herbicide of the triazine class. 
 - Atrazine is used to prevent pre and post-emergence broadleaf weeds in crops such as maize (corn) and sugarcane and on turf, such as golf courses and residential lawns.
