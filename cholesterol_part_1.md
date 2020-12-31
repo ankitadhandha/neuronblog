@@ -2,10 +2,10 @@
 
 Nobel Prize winners
 
-*cholesterol in 
+* cholesterol in 
 [chefs](https://wedge.ontomatica.io/ChEFS_-_19-09-06/Wedge?q=facet_NTRNT:8400&group=facet_NTRNT)
 
-*cholesterol in 
+* cholesterol in 
 [chematic](https://wedge.ontomatica.io/ChEMATIC_-_19-09-06/Wedge?q=facet_MD_04:68237147&group=facet_MD_04)
 
 ###Note 
