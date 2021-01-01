@@ -1,8 +1,8 @@
 name: "Publish"
 on:
-  push:
-    branches:
-      #- master
+  #push:
+   # branches:
+    #  - master
 jobs:
   neuron:
     runs-on: ubuntu-latest
