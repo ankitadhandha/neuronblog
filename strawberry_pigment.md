@@ -7,3 +7,4 @@ It interacts with the [HGNC:PDE](https://www.genenames.org/data/gene-symbol-repo
 A quick check of [Guide to Pharmacology Database](https://www.guidetopharmacology.org/GRAC/ObjectDisplayForward?objectId=1304)
 tells us "PDE5 is highly expressed in vascular and bronchial smooth muscle, in renal tubules and in platelets" which translates to: it may be therapy for cardiovascular disease. Here's an [article](https://pubmed.ncbi.nlm.nih.gov/17305584/) with more detail.
 Tom Brady [doesn't eat strawberries](https://www.thecut.com/2018/03/tom-brady-strawberries-dieting.html), but maybe you should.
+I ate my strwaberries this morning - did you?
