@@ -1,3 +1,6 @@
 ---
 title: Wikimedia
 ---
+
+* [[Wikipedia]]
+* [[Wikidata]]
