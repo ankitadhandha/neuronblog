@@ -2,5 +2,5 @@
 title: Wikimedia
 ---
 
-* [[Wikipedia]]
-* [[Wikidata]]
+* [[[Wikipedia]]]
+* [[[Wikidata]]]
