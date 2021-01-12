@@ -1,4 +1,4 @@
 ---
 title: Wikidata
 ---
-* [[atrazine]]
+* [[[atrazine]]]
