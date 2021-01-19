@@ -1,5 +1,5 @@
 ---
-title: Total number of males in Asia: 235
+title: Total number of males in Asia 235
 ---
 
 Here is the list:
