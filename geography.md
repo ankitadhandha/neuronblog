@@ -2,4 +2,6 @@
 title: Geography
 ---
 
-* [neuronblog]
+* [Africa]
+* [Asia]
+* [Europe]
