@@ -1,0 +1,6 @@
+---
+title: Gender
+---
+
+* [[male]]
+* [[female]]
