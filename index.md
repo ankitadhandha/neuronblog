@@ -26,3 +26,5 @@ I am going to create zettels from today.
 * [[status]]
 * [[gender]]
 * [[item-1]]
+* [[item-2]]
+* [[item-3]]
