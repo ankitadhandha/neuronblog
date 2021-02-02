@@ -22,3 +22,4 @@ I am going to create zettels from today.
 * [[blogs]]
 * [[neurontree]]
 * [[npw]]
+* [[geography]]
