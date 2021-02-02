@@ -2,6 +2,6 @@
 title: Geography
 ---
 
-* [Africa]
-* [Asia]
-* [Europe]
+* [[Africa]]
+* [[Asia]]
+* [[Europe]]
