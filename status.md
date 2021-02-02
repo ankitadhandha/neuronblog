@@ -1,0 +1,6 @@
+---
+title: Status
+---
+
+* [[alive]]
+* [[dead]]
