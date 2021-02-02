@@ -23,3 +23,5 @@ I am going to create zettels from today.
 * [[neurontree]]
 * [[npw]]
 * [[geography]]
+* [[status]]
+* [[gender]]
