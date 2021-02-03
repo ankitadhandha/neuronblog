@@ -4,7 +4,7 @@ title: Gender
 
 * [[male]]
 * [[female]]
-* [[item-2]]
-* [[item-2]]
-* [[item-3]]
-* [[item-4]]
+* [[item-1]] is * [[male]]
+* [[item-2]] is * [[female]]
+* [[item-3]] is * [[female]]
+* [[item-4]] is * [[female]]
