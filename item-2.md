@@ -7,3 +7,5 @@ title: Elfriede Jelinek
 * [[[Asia]]]
 * [[[female]]]
 * [[[alive]]]
+* [[status]]
+* [[gender]]
