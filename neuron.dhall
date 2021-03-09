@@ -5,4 +5,5 @@
 , theme = "pink"
 , editUrl = Some "https://github.com/ankitadhandha/neuronblog/edit/master/"
 , mathJaxSupport = False
+, plugins = ["neurondhall", "links", "tags", "dirtree", "uptree"]
 }
