@@ -1,5 +1,5 @@
 ---
-title: Nobel Prize Winners
+title: Nobel Prize 
 ---
 
 We will have NPW in following categories:
@@ -10,4 +10,4 @@ We will have NPW in following categories:
 * [[physics]]#
 * [[literature]]#
 * [[medicine]]#
-* [[winners]]#
+* [[person]]#
