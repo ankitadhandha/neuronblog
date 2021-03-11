@@ -24,3 +24,4 @@ I am going to create zettels from today.
 * [[rosetta]]#
 * [[hersheyskiss]]#
 * [[npw]]#
+* [[peace]]#
