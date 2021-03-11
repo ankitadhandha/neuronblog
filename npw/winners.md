@@ -1,3 +1,0 @@
----
-title: Noble Prize Winners
----
