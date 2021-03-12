@@ -11,3 +11,5 @@ We will have NPW in following categories:
 * [[literature]]#
 * [[medicine]]#
 * [[person]]#
+* [[awardyear]]#
+* [[time]]#
