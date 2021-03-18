@@ -1,0 +1,11 @@
+---
+title: Nadia Murad
+---
+- Nadia Murad
+      - type: person, gender: female
+- Won Nobel Prize in
+      - peace
+- Award year
+      - 2018
+- Age at Award time
+      - 26
