@@ -3,7 +3,7 @@ title: William Bragg
 ---
 
 - William Bragg
-      - type: person, gender: male
+      - type: person, gender: [[male]]
 - Won Nobel Prize in
       - physics
 - Award year
