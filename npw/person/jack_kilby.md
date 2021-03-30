@@ -8,3 +8,5 @@ title: Jack Kilby
       - physics
 - Award year
       - 2000
+- Age at award time:
+      - 78
