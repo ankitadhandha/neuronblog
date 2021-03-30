@@ -12,4 +12,4 @@ We will have NPW in following categories:
 * [[medicine]]#
 * [[person]]#
 * [[awardyear]]#
-* [[time]]#
+* [[ageatawardtime]]#
