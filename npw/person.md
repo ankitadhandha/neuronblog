@@ -6,7 +6,7 @@ title: Person who won Nobel Prize
 * [[linus_pauling]]#
 * [[alfred_fried]]#
 * [[jack_kilby]]#
-* [[malala_yousafzai]]#
+* [[Malala_Yousafzai]]#
 * [[maurice]]#
 * [[nadia_murad]]#
 * [[william_bragg]]#
