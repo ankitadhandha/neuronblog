@@ -8,3 +8,5 @@ title: Alfred Fried
       - peace
 - Award year
       - 1911
+- Age at award time
+      - 48
