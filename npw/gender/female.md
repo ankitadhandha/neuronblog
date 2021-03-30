@@ -4,4 +4,4 @@ title: Female Winners
 
 We will list here female winners:
 * [[marie_curie]]#
-* [[malala_yousafzai]]#
+* [[Malala_Yousafzai]]#
