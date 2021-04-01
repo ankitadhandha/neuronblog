@@ -13,3 +13,4 @@ We will have NPW in following categories:
 * [[person]]#
 * [[awardyear]]#
 * [[ageatawardtime]]#
+* [[labels]]#
