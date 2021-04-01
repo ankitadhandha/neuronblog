@@ -1,5 +1,5 @@
 ---
-title: labels for winners, type of nobel prize and award year
+title: labels
 ---
 
 Winners:
